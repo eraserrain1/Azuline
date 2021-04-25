@@ -1,0 +1,27 @@
+{
+  "name": "azuline",
+  "version": "1.0.0",
+  "description": "Azuline Discord Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.3.0",
+    "yt-search": "^2.8.0",
+    "ytdl-core": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Tan (EraserRain)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eraserrain1/Azuline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eraserrain1/Azuline/issues"
+  },
+  "homepage": "https://github.com/eraserrain1/Azuline#readme"
+}
